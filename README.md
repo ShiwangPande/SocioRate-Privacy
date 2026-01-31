@@ -58,4 +58,4 @@ We take data security seriously.
 *   **Deletion**: You can delete your account at any time.
 
 ## 7. Contact Us
-If you have questions about this policy, please contact us at: **support@sociorate.app**
+If you have questions about this policy, please contact us at: **shiwangpande1@gmail.com**
