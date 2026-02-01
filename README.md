@@ -1,61 +1,162 @@
 # Privacy Policy for SocioRate
 
-**Effective Date:** January 31, 2026
+**Effective Date:** January 31, 2026  
+**Last Updated:** February 1, 2026  
 
-**SocioRate** ("we", "our", or "us") respects your privacy. This Privacy Policy describes the information we collect, how we use it, and your rights regarding your data when you use our mobile application and services.
+SocioRate ("we", "our", or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights when you use the SocioRate mobile application and related services.
+
+By using SocioRate, you agree to the practices described in this policy.
+
+---
 
 ## 1. Information We Collect
 
-We collect only the information necessary to provide our community service.
+We collect only the information necessary to operate a safe, verified, community-driven platform.
 
-### A. Information You Provide to Us
-*   **Account Information**: Name, Email address, Phone number, and Password.
-*   **Profile Information**: Profile picture (Avatar), Society Name, Block, and Flat Number.
-*   **Worker Verification Data**: If you register as a Worker, we collect your Government ID photo and a Selfie for identity verification.
-    *   **Recommended Masking**: We **highly recommend** that you mask (black out) sensitive unique identification numbers (e.g., the first 8 digits of Aadhaar or specific License numbers) *before* uploading. Please ensure your **Name** and **Photo** remain clearly visible for verification.
-    *   **Automated Protection**: Our system automatically applies a secondary masking layer to the bottom portion of uploaded ID documents to further obscure sensitive details before secure storage.
-    *   **Data Handling**: This data is **strictly confidential**, encrypted, and used *only* for verification purposes. We do not display your raw ID proof to other users.
-*   **User Content**: Reviews, Ratings, and Support Tickets you submit.
+---
+
+### A. Information You Provide
+
+**Account Information**
+- Name
+- Email address
+- Phone number
+- Password (encrypted)
+
+**Profile Information**
+- Profile picture (avatar)
+- Society name, block, and flat number
+
+**Worker Verification Information (Workers only)**
+- Government ID photo
+- Selfie for identity verification
+
+🔒 **Privacy Protection Notice**  
+We strongly recommend masking (blacking out) sensitive identification numbers (such as Aadhaar or license numbers) before uploading documents.  
+Our system also applies automatic masking to the lower portion of ID documents before secure storage.
+
+- Raw ID proofs are never shown to other users
+- Access is limited to authorized verification systems
+- Used strictly for identity verification
+
+**User-Generated Content**
+- Reviews and ratings
+- Support tickets and messages
+
+---
 
 ### B. Information Collected Automatically
-*   **Device Information**: We collect device identifiers (Device ID) and models to manage push notifications and secure your account.
-*   **App Usage Data**: We may collect anonymous logs of app crashes or errors to improve stability.
-*   **Approximate Location**: We do **NOT** track your real-time GPS location. We only store the "Society" or "City" you manually select to match you with local workers.
 
-## 2. How We Use Your Information
+**Device & Technical Data**
+- Device model and OS version
+- Device identifiers (for security and notifications)
 
-*   **Service Delivery**: To create your account, verify your identity, and enable the resident-worker connection.
-*   **Communication**: To send you OTPs (for login), booking updates, and important community announcements via Push Notifications.
-*   **Safety & Security**: To verify Worker identities (ID Proofs) and prevent fraud or abuse on the platform.
-*   **Support**: To resolve technical issues or disputes reported via our Support system.
+**App Usage & Diagnostics**
+- Crash reports and error logs (anonymous)
 
-## 3. Data Sharing and Disclosure
+**Location Information**
+- We do NOT track GPS location
+- We store only the society/city you manually select for local matching
 
-We do **not** sell your personal data. We only share data in the following limited circumstances:
-*   **Service Providers**: We use trusted third-party services to operate our app:
-    *   **Render**: For secure cloud hosting and database storage.
-    *   **Cloudinary**: For secure storage of images (profile pics, ID proofs).
-    *   **Expo / Google Firebase**: For delivering Push Notifications.
-*   **Legal Requirements**: We may disclose information if required by law or to protect the safety of our users.
+---
 
-## 4. Data Retention and Deletion
+## 2. Permissions We Use
 
-*   **Retention**: We retain your data as long as your account is active.
-*   **Deletion**: You have the absolute right to delete your account and data.
-    *   **In-App**: Go to **Settings > Danger Zone > Delete Account**.
-    *   **Effect**: This action **permanently deletes** your personal profile, credentials, and verification documents from our active database. Some anonymized data (e.g., historical reviews) may be retained for community integrity.
+SocioRate may request the following permissions:
 
-## 5. Security
+- **Camera** – to upload profile pictures and verification documents (optional)
+- **Storage/Media Access** – to upload images
+- **Notifications** – to send important updates and alerts
 
-We take data security seriously.
-*   **Encryption**: All data in transit is encrypted via SSL/TLS.
-*   **Protection**: Passwords are hashed (bcrypt). Sensitive ID proofs are stored securely.
-*   **Access Control**: Only authorized personnel have access to sensitive verification data.
+These permissions are used only when you initiate the action.
 
-## 6. Your Rights
-*   **Access**: You can view your profile data within the app.
-*   **Correction**: You can edit your profile details in Settings.
-*   **Deletion**: You can delete your account at any time.
+---
 
-## 7. Contact Us
-If you have questions about this policy, please contact us at: **shiwangpande1@gmail.com**
+## 3. How We Use Your Information
+
+We use your data for:
+
+- Account creation and authentication
+- Worker identity verification
+- Enabling resident-worker interactions
+- Sending OTPs, alerts, and community notifications
+- Preventing fraud and abuse
+- Customer support and dispute resolution
+- Improving app performance and stability
+
+---
+
+## 4. Data Sharing & Disclosure
+
+We do not sell personal data.
+
+We share limited data only with trusted service providers:
+
+- **Render** – secure cloud hosting and database
+- **Cloudinary** – encrypted image storage
+- **Expo / Google Firebase** – push notifications and analytics
+
+Data may also be disclosed if required by law or to protect user safety.
+
+---
+
+## 5. Data Retention & Deletion
+
+**Retention**  
+We retain your data while your account is active.
+
+**Deletion (Your Right)**  
+You can delete your account anytime:
+
+`Settings → Danger Zone → Delete Account`
+
+This will permanently delete:
+- Profile information
+- Login credentials
+- Uploaded images and ID proofs
+
+Some anonymized data (e.g., reviews) may remain to maintain platform integrity.
+
+---
+
+## 6. Data Security
+
+We apply industry-standard security measures:
+
+- SSL/TLS encryption for all data in transit
+- Encrypted storage for sensitive files
+- Passwords hashed using bcrypt
+- Strict access control for verification data
+
+---
+
+## 7. Your Rights
+
+You have the right to:
+
+- Access your personal data
+- Correct or update information
+- Delete your account and data
+- Withdraw consent for optional permissions
+
+---
+
+## 8. Children’s Privacy
+
+SocioRate is not intended for children under 13.  
+We do not knowingly collect data from minors.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time.  
+You will be notified of significant changes through the app.
+
+---
+
+## 10. Contact Us
+
+If you have any questions or concerns, contact us at:
+
+📧 **shiwangpande1@gmail.com**
