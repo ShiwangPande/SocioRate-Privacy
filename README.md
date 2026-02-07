@@ -28,16 +28,20 @@ We collect only the information necessary to operate a safe, verified, community
 - Society name, block, and flat number
 
 **Worker Verification Information (Workers only)**
-- Government ID photo
-- Selfie for identity verification
 
-🔒 **Privacy Protection Notice**  
-We strongly recommend masking (blacking out) sensitive identification numbers (such as Aadhaar or license numbers) before uploading documents.  
-Our system also applies automatic masking to the lower portion of ID documents before secure storage.
+*   Government-issued identification document (masked or unmasked)
+*   Real-time selfie for identity verification
 
-- Raw ID proofs are never shown to other users
-- Access is limited to authorized verification systems
-- Used strictly for identity verification
+🔒 **Privacy Protection Notice**
+
+*   Verification documents and selfies are **processed temporarily only** for identity verification
+*   **All verification data is permanently deleted immediately after worker approval**
+*   **No ID documents or selfies are stored on the Platform**
+*   Verification data is **never visible to other users**
+*   Access is strictly limited to **authorized verification systems**
+*   Used **solely for one-time identity verification**
+    
+We strongly recommend masking sensitive identification numbers (such as Aadhaar or license numbers) before uploading documents. Even if unmasked documents are uploaded, they are **not retained** after verification.
 
 **User-Generated Content**
 - Reviews and ratings
@@ -93,7 +97,7 @@ We do not sell personal data.
 We share limited data only with trusted service providers:
 
 - **Render** – secure cloud hosting and database
-- **Cloudinary** – encrypted image storage
+- **Cloudinary**  – encrypted image storage (for profile images and app content only; not used for worker verification documents)
 - **Expo / Google Firebase** – push notifications and analytics
 
 Data may also be disclosed if required by law or to protect user safety.
@@ -126,7 +130,7 @@ We apply industry-standard security measures:
 - SSL/TLS encryption for all data in transit
 - Encrypted storage for sensitive files
 - Passwords hashed using bcrypt
-- Strict access control for verification data
+- Strict access control for temporary verification processing systems
 
 ---
 
